@@ -1,1 +1,1 @@
-# Programacion-II
+Lo que hicimos en estaa tarea fue crear un pequeño paisaje utilizando solo figuras basicas como rectangulo triangulo o circulo. Y cin esta tarea pudimos analizar mas concretamente sobre las librerias java.awt y javax.swing que por ejemplo para la primera libreria antes mencionada  solo extragimos algunas  clases especifica .  
