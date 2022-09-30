@@ -1,1 +1,1 @@
-# Programacion-II
+En esta tarea utilizamos lo aprendido de crear objetos pero ahora utilizamos las librerias de javax.swing y  java.awt que  con ellas tienen clases especificas que nos ayudan a la hora de crar objetos .  Y lo primero que hicmos con estas librerias fue crear un pequeño paisaje.
