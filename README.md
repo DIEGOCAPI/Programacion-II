@@ -1,1 +1,1 @@
-# PROGRAMACION II
+En esta parte ya hemos concluido con el avanza del juego de la serpiente ya que aqui agregamos el puntaje, hicimos que la serpiente haga como efecto de tunel no como en el avance anterior que se iba de lizo y no regresaba, y por ultimo agregamos vidas las cuales se reducen si choca con su cuerpo o bien si se muerde.
